@@ -1,10 +1,6 @@
 
 <h1 align="center">Hola 👋, This is Jayshree</h1>
 <h3 align="center">just a learner tryna figure out stuffs</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/OyRT.gif">
-
-
-
 
 - 🔭 Currently a student of **SRMIST**
 
