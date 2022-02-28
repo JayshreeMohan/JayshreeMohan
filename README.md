@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola 👋, This is Jayshree</h1>
 <h3 align="center">just a learner tryna figure out stuffs</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/JayshreeMohan/JayshreeMohan/blob/main/OyRT.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/JayshreeMohan/JayshreeMohan/blob/main/OyRT.gif">
 
 - 🔭 Currently a student of **SRMIST**
 
